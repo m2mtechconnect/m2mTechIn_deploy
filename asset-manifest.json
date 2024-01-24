@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.867559a1.css",
-    "main.js": "/static/js/main.9391cecb.js",
+    "main.js": "/static/js/main.16f6839d.js",
     "static/media/student-spotlight_v2.png": "/static/media/student-spotlight_v2.c952f6cb7b2de0b383f3.png",
     "static/media/wilplus-banner_v2.png": "/static/media/wilplus-banner_v2.ffdfd0c703d27ed893c6.png",
     "static/media/remixicon.svg": "/static/media/remixicon.1664a258a7e7714f6f8d.svg",
@@ -71,10 +71,10 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.867559a1.css.map": "/static/css/main.867559a1.css.map",
-    "main.9391cecb.js.map": "/static/js/main.9391cecb.js.map"
+    "main.16f6839d.js.map": "/static/js/main.16f6839d.js.map"
   },
   "entrypoints": [
     "static/css/main.867559a1.css",
-    "static/js/main.9391cecb.js"
+    "static/js/main.16f6839d.js"
   ]
 }
